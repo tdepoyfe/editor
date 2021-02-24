@@ -1,0 +1,9 @@
+Write more tests for the buffer
+Privatize what should be private
+Write a dummy screen to test the window and appropriate tests
+Write more doc
+Write support for ctl shortcuts: exiting, saving, ...
+Maybe Unicode?
+Maybe search mode?
+Page up and Page down
+Support for wraparound
